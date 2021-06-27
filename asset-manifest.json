@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/feedApp/static/css/main.a180a5c9.chunk.css",
+    "main.js": "/feedApp/static/js/main.17a8ed82.chunk.js",
+    "main.js.map": "/feedApp/static/js/main.17a8ed82.chunk.js.map",
+    "runtime-main.js": "/feedApp/static/js/runtime-main.94907a64.js",
+    "runtime-main.js.map": "/feedApp/static/js/runtime-main.94907a64.js.map",
+    "static/css/2.799c978e.chunk.css": "/feedApp/static/css/2.799c978e.chunk.css",
+    "static/js/2.8638b4db.chunk.js": "/feedApp/static/js/2.8638b4db.chunk.js",
+    "static/js/2.8638b4db.chunk.js.map": "/feedApp/static/js/2.8638b4db.chunk.js.map",
+    "static/js/3.73726b27.chunk.js": "/feedApp/static/js/3.73726b27.chunk.js",
+    "static/js/3.73726b27.chunk.js.map": "/feedApp/static/js/3.73726b27.chunk.js.map",
+    "index.html": "/feedApp/index.html",
+    "precache-manifest.9cafaaccb3cea2a78608411c6a527311.js": "/feedApp/precache-manifest.9cafaaccb3cea2a78608411c6a527311.js",
+    "service-worker.js": "/feedApp/service-worker.js",
+    "static/css/2.799c978e.chunk.css.map": "/feedApp/static/css/2.799c978e.chunk.css.map",
+    "static/css/main.a180a5c9.chunk.css.map": "/feedApp/static/css/main.a180a5c9.chunk.css.map",
+    "static/js/2.8638b4db.chunk.js.LICENSE.txt": "/feedApp/static/js/2.8638b4db.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/feedApp/static/media/avatar.e475dea6.png",
+    "static/media/event.jpeg": "/feedApp/static/media/event.272a483a.jpeg",
+    "static/media/logo.png": "/feedApp/static/media/logo.bdb1afe6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94907a64.js",
+    "static/css/2.799c978e.chunk.css",
+    "static/js/2.8638b4db.chunk.js",
+    "static/css/main.a180a5c9.chunk.css",
+    "static/js/main.17a8ed82.chunk.js"
+  ]
+}
